@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather BulyginJA</string>
+    <string name="top_img_desc">Weather</string>
+    <string name="icon_img_desc">Weather</string>
+    <string name="top_txt_hint">City</string>
+    <string name="txt_city">City</string>
+    <string name="txt_temp">13 C</string>
+    <string name="txt_desc">City desc</string>
+</resources>
